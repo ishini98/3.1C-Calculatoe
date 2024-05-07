@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalclatorSubTask</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="subtract_amount">Subtract Amount</string>
+</resources>
